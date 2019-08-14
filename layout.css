@@ -26,7 +26,6 @@ body{
 	border: 5px double gold;
 }
 .container> article{
-	min-height: 100%;
 	width: 70%;
 	background-color: #EEEEEE;
 	float: left;
